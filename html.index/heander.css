@@ -1,0 +1,34 @@
+.cabeçalho{
+    background-color: rgb(172, 50, 50); /*coloca cor de fundo */
+    display: flex;
+    font-size: 3em;            /*coloca tamanho da fonte */
+    color: aliceblue;           /*coloca cor da fonte*/
+    width: 100px;               /*coloca largura da janela */
+    height: 85px;          /*coloca altura do espaço do cabeçalho */
+    text-align: center;      /*alinha o texto do titulo */
+    justify-content: space-between;    /*coloca espaço entre os objetos do cabeçalho */
+    align-items: center; 
+    margin: 1cqi ;        /*alinha os objeto ao centro vertical do espaço */
+
+    }
+.logotipo{
+    width: 60px;
+    padding: 5px;
+    margin: 5px;
+    }
+.botao_login {
+    
+    background-color: #effcf1;
+    border-radius: 20px;
+    border: none;
+    color: #b85c5c;
+    padding: 10px 20px;
+    text-align: right;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 20px;
+    margin: 10px 29px;
+    transition-duration: 0.4s;
+    cursor: pointer;
+    background-image: linear-gradient(to bottom, #5aa15e, #adca5d);
+}
