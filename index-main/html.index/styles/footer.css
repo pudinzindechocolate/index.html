@@ -1,0 +1,8 @@
+footer{
+    background-color: rgb(140, 140, 194);
+    width: 100%;
+    min-height: 70px;
+    font-size: 25px;
+    color: rgb(8, 8, 8);
+    padding: 10PX;
+}
